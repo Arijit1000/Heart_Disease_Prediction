@@ -1,6 +1,7 @@
 # Heart_Disease_Prediction
 
-Medical Real World Problem Statement :-
+
+## Medical Real World Problem Statement
 
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worlwide. Heart failure is a common event caused by CVDs and this dataset contains 12 features that can be used to predict mortality by heart failure.
 
@@ -12,6 +13,11 @@ If you're able to make a machine learning model, then this will help in early de
 
 We have to predict a person death event using some features:-
 
-Age ,Gender , blood pressure, smoke, diabetes,ejection fraction, creatinine phosphokinase, serum_creatinine, serum_sodium, time
+Age ,Gender , blood pressure, smoke, diabetes,ejection fraction, creatinine phosphokinase, serum_creatinine, serum_sodium, time.
+
+## Dataset Used:
+
+The medical dataset used in this research is solely based on heart failure clinical records based on various parameters.
+
 
 
